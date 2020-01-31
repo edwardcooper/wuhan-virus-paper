@@ -3,7 +3,7 @@ A repository to document the papers on the spread of Wuhan Coronavirus.
 
 Since the outbreak of the Wuhan Coronavirus, there are a lot of paper talking about the dynamics of the transmission of the new disease. The goal of this repository is to collect as much paper as I read it and discuss it here if possible. 
 
-## Disease Dynamics 
+## Lancet
 
 #### Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
 
@@ -73,11 +73,18 @@ personal_note: This paper gives a statistical description of a cohort of 99 pati
 
 
 
-name:
-Outbreak of Pneumonia of Unknown Etiology in Wuhan China: the Mystery and the Miracle
+### Outbreak of Pneumonia of Unknown Etiology in Wuhan China: the Mystery and the Miracle
 url:
 https://onlinelibrary.wiley.com/doi/epdf/10.1002/jmv.25678
 abstract_from_paper:
 NAN
 personal_note: 
 Not much new information is provided. 
+
+### to be read 
+
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30185-9/fulltext
+
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30186-0/fulltext
+
+
