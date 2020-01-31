@@ -17,6 +17,7 @@ By Jan 2, 2020, 41 admitted hospital patients had been identified as having labo
 personal_note:
 1. The p values reported in Table 1 comparing ICU care and no ICU care are from χ2 test, Fisher's exact test, or Mann-Whitney U test. But the author did not give the exact test used for each p-value nor did they report the confidence interval. This makes it hard to make valid inference from the results. 
 2. The χ2 test should never be used as the observations from each cell is smaller than 50. The usage of χ2 test could render the p-value useless. Fisher's exact test is the right approach in this scenario. 
+3. The first admitted case was not related to the Huanan Market in anyway. If the Huanan Market is indeed the epic center of this outbreak, then the first admitted case must be at least a second generation infection case. This could imply that someone had the disease at least 2Xincubation_time before Dec 1st 2019. Given the median estimate for incubation time, which is 7~8 days, the patient-zero's infectied time could be as early as mid November. 
 
 name: 
 Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia
