@@ -22,7 +22,36 @@ discussions:
 2. It only uses time up to Jan 12th to estimate the R0. The author aruges that the reason for that is founded on the assumption that people have an incubation time of about 12 days. 
 3. There are 5 clusters patients where the exposure to the virus could not be determined. This aligns with the assumption made in another Lancet paper that the Huanan Seafood market is not the singular source for the virus outbreak. 
 
+
+
 name:
-url:
+Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study
+
+url: 
+https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930211-7
+
 abstract_from_paper:
-personal_note:
+Of the 99 patients with 2019-nCoV pneumonia, 49 (49%) had a history of exposure to the Huanan seafood
+market. The average age of the patients was 55·5 years (SD 13·1), including 67 men and 32 women. 2019-nCoV was
+detected in all patients by real-time RT-PCR. 50 (51%) patients had chronic diseases. Patients had clinical manifestations
+of fever (82 [83%] patients), cough (81 [82%] patients), shortness of breath (31 [31%] patients), muscle ache
+(11 [11%] patients), confusion (nine [9%] patients), headache (eight [8%] patients), sore throat (five [5%] patients),
+rhinorrhoea (four [4%] patients), chest pain (two [2%] patients), diarrhoea (two [2%] patients), and nausea and vomiting
+(one [1%] patient). According to imaging examination, 74 (75%) patients showed bilateral pneumonia, 14 (14%)
+patients showed multiple mottling and ground-glass opacity, and one (1%) patient had pneumothorax. 17 (17%) patients
+developed acute respiratory distress syndrome and, among them, 11 (11%) patients worsened in a short period of time
+and died of multiple organ failure.
+
+personal_note: This paper gives a statistical description of a cohort of 99 patients. 
+
+
+
+
+name:
+Outbreak of Pneumonia of Unknown Etiology in Wuhan China: the Mystery and the Miracle
+url:
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/jmv.25678
+abstract_from_paper:
+NAN
+personal_note: 
+Not much new information is provided. 
