@@ -40,6 +40,20 @@ discussions:
 
 
 
+name: 
+A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster
+
+url:
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30154-9/fulltext
+
+abstract_from_paper:
+
+personal_note:
+One person did not show a rise in body temperature after infection is confirmed as is shown in Table 1. 
+But it is not clear as to whether the virus is still in the incubation period or not. 
+
+
+
 name:
 Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study
 
