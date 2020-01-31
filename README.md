@@ -18,8 +18,8 @@ personal_note:
 3. The estimate of R0 was limited to the period up to January 4 because increases in awareness of the outbreak and greater availability and use of tests in more recent weeks will have increased the proportions of infections ascertained. 
 
 discussions:
-1. The paper does not give how the detailed conclusions are made nor the data is provided. 
-2. It only uss time up to Jan 4th to estimate the R0. 
+1. The paper does not give how the detailed conclusions are made nor the data is provided. However, it is common for this type of paper. 
+2. It only uses time up to Jan 12th to estimate the R0. The author aruges that the reason for that is founded on the assumption that people have an incubation time of about 12 days. 
 3. There are 5 clusters patients where the exposure to the virus could not be determined. This aligns with the assumption made in another Lancet paper that the Huanan Seafood market is not the singular source for the virus outbreak. 
 
 name:
