@@ -5,8 +5,7 @@ Since the outbreak of the Wuhan Coronavirus, there are a lot of paper talking ab
 
 ## Disease Dynamics 
 
-name:
-Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
+#### Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
 
 url:
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext
@@ -19,8 +18,7 @@ personal_note:
 2. The χ2 test should never be used as the observations from each cell is smaller than 50. The usage of χ2 test could render the p-value useless. Fisher's exact test is the right approach in this scenario. 
 3. The first admitted case was not related to the Huanan Market in anyway. If the Huanan Market is indeed the epic center of this outbreak, then the first admitted case must be at least a second generation infection case. This could imply that someone had the disease at least 2Xincubation_time before Dec 1st 2019. Given the median estimate for incubation time, which is 7~8 days, the patient-zero's infectied time could be as early as mid November. 
 
-name: 
-Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia
+#### Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia
 
 url:
 https://www.nejm.org/doi/full/10.1056/NEJMoa2001316
@@ -40,8 +38,7 @@ discussions:
 
 
 
-name: 
-A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster
+#### A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster
 
 url:
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30154-9/fulltext
@@ -54,8 +51,7 @@ But it is not clear as to whether the virus is still in the incubation period or
 
 
 
-name:
-Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study
+#### Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study
 
 url: 
 https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930211-7
